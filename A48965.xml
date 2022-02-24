@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An harangue to the King by a minister of the French church in the Savoy, the nineteenth of October, 1681.</title>
+            <author>Lombard, André.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48965</idno>
+            <idno type="STC">Wing L2842C</idno>
+            <idno type="STC">Wing H678_CANCELLED</idno>
+            <idno type="STC">ESTC R9359</idno>
+            <idno type="EEBO-CITATION">11808553</idno>
+            <idno type="OCLC">ocm 11808553</idno>
+            <idno type="VID">49483</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49483)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 495:23 or 1705:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An harangue to the King by a minister of the French church in the Savoy, the nineteenth of October, 1681.</title>
+                  <author>Lombard, André.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Bentley and M. Magnes ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Attributed to André Lombard by Wing (2nd ed.) and BLC.</note>
+                  <note>"Printed by His Majesty's special command."</note>
+                  <note>This item appears at reel 495:23 as Wing H678 (number cancelled in Wing 2nd ed.) and at reel 1705:15 as Wing L2842C.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Huguenots --  England.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:49483:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 45 -->
+            <head>AN HARANGUE TO THE KING.</head>
+            <byline>By a Miniſter of the <hi>French</hi> Church in the <hi>Savoy,</hi> 
+               <date>the Nineteenth of <hi>October,</hi> 1681.</date>
+            </byline>
+            <head type="sub">Printed by His Majeſty's Special Command.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IT is not I that ſpeak, though the Words are mine: Nor is it Your <hi>French</hi> Church in the <hi>Savoy</hi> ſpeaks, though it humbly beg Audience of Your Majeſty. But it is a holy Colony of <hi>French</hi> Proteſtants, driven every day by Storm into Your Ports. They are the true <hi>Iſrae<g ref="char:EOLhyphen"/>lites,</hi> croſſing the Sea to paſs into <hi>Canaan.</hi> They are the Merchants in the Goſpel, who ſell all they have to purchaſe the Pearl of Price, and come into Your Realms in ſearch of the Kingdom of Heaven. 'Tis they, <hi>Sir,</hi> 'tis in a manner the whole Reformed Church, ſpeaks this day by my Mouth: And my Voice is but the Eccho of theirs.</p>
+            <p>They come, <hi>Sir,</hi> by me, with Your Declaration in their Hands, to preſent themſelves before that Auguſt Throne from which it iſſued. And as Your Majeſty hath been pleaſed to declare in expreſs Terms, That You look'd upon Your ſelf concern'd in Honour and Conſcience to do them Good, they think themſelves obliged both in Honour and Conſcience to beg leave to kiſs thoſe Sacred Hands that ſaved them from periſhing by Shipwrack, and load them continually with Favours and Kindneſſes.</p>
+            <p>They look upon this myſterious Declaration you have made in their favour, as a Maſter-piece of Providence, and (if I may be allowed to uſe that Term) a <hi>Phoenomenon</hi> that fills both the Church and the World with admiration.</p>
+            <p>The Church, edified by it, admires it as an Effect of extraordinary Piety. The World, amaz'd at it, looks upon it as a Product of the higheſt Prudence. All Places ring of this Oracle of Your Majeſty: It is ſpoken in <hi>Gath,</hi> it is publiſhed in <hi>Aſcalon;</hi> and the Seven Hills eccho the Sound: The Iſlands clap their Hands for joy, and the Continent anſwers them with equal re<g ref="char:EOLhyphen"/>joycing: Every Mouth ſpeaks of it, except thoſe whom a Declaration ſo full of Zeal for the Proteſtant Religion hath rendred ſpeechleſs, and condemned to perpetual Silence.</p>
+            <p>Methinks I hear before hand the Applauſe of Poſterity; and there is no doubt but this great Work of good Policy and good Conſcience will be equally celebrated in the Annals of the Church and of the State. This Oracle of Your Majeſty will be recorded in Hiſtory as an Evidence both of Your Wiſdom and Piety; it will be admir'd as an illuſtrious Example of Vertue, Moral and Divine: And it will be hard to judge whether it hath more of the Monarch, or the De<g ref="char:EOLhyphen"/>fender of the Faith.</p>
+            <p>But, <hi>Sir,</hi> this Charitable Declaration hath already found another ſort of Panegyriſts, whoſe Benedictions and Praiſes God himſelf, the King of Kings, delights to hear: I mean, our Children, thoſe little <hi>Moſeſes,</hi> expos'd to float on the Sea, before they have ſcarce put a Foot to the Ground; theſe poor Orphans, this little Houſhold of Faith, whom the Great Defender of it hath taken into His Protection, and declar'd himſelf their Father; theſe Angels on Earth joyn with thoſe in Heaven, in praiſing God for what he hath done for them by His Annointed. I fancy I ſee them in their Mothers Boſoms, liſtning to what they relate God hath done for them in our days by your Miniſtry. Methinks, as ſoon as they begin to prattle <hi>Engliſh,</hi> I hear them learn to bleſs Your Majeſty in more than one Language, and read for their firſt Leſſon that tender and fa<g ref="char:EOLhyphen"/>therly Declaration of Your Majeſty. Methinks I hear them cry out, as ſoon as they ſee Your Majeſty, <hi>God ſave the King; God ſave Him who hath ſav'd us, and with the Life of our Bodies, hath preſerv'd alſo the Life of our Souls.</hi>
+            </p>
+            <p>I fancy, alſo, I hear ſo many Chriſtian Confeſſors, of all Qualities, Arts, and Orders, whom the World would have conquered, and deſtroy'd by Famine: but their Faith ſupported and ſuc<g ref="char:EOLhyphen"/>cour'd by Your Charity, hath overcome the World. One of which Confeſſors is leſs remarkable
+<pb facs="tcp:49483:2"/>
+               <!-- PDF PAGE 46 -->for his Birth and Quality of Marquis, than for his Piety, and many eminent Services done for our poor Churches, for which he is now become an innocent Sacrifice. I fancy I hear them vie with one another in praiſing Your Royal Beneficence. Could Your Majeſty hear them, what an excellent Harmony would it be to Your Ears? a thouſand times more charming and pleaſant than that of the Emperour <hi>Auguſtus,</hi> who hearing himſelf commended by ſome who ſaw him paſs by, proteſted he had never heard better Muſick: Yet that was only a vain Sound of worldly and fri<g ref="char:EOLhyphen"/>volous Praiſes; but thoſe Your Majeſty receives from the poor diſtreſſed Proteſtants, are divine, eternal, and the ſame in ſubſtance with thoſe which the Poor will give their charitable Benefa<g ref="char:EOLhyphen"/>ctors, by the Mouth of their Saviour, at the Day of Judgment.</p>
+            <p>Beſides, <hi>Sir,</hi> What abundant matter doth Your Majeſty afford theſe poor <hi>Jobs</hi> to ſing (with that holy Man) in the Night, when they ſee Your Majeſty, as it were, begging for them Alms from Your Subjects! What a comfort muſt it be, that the Defender of their Faith opens at once ſo many ways for their Subſiſtence, which in their Native Country were ſtopp'd and ſhut up by the Enemies of their Religion! What a pleaſure is it to ſee themſelves accounted Natural Inhabi<g ref="char:EOLhyphen"/>tants of Your Kingdoms, as ſoon as they arrive there! What Joy, to find it in their power for the future to live and die in Peace! I can bear witneſs of one of them, who falling ſick ſoon after his arrival here, yielded up his holy Soul to God, in bleſſing him for his good Providence, that brought him hither to die in Peace, under the Protection of Your Auguſt Throne, and within the Walls of your <hi>Jeruſalem.</hi>
+            </p>
+            <p>It cannot be, <hi>Sir,</hi> but that ſo many Prayers and Bleſſings, proceeding from the Mouths of the Faithful, will produce more than ordinary Effects in Heaven: It is impoſſible but that thoſe holy ones who bleſs the Goodneſs of their <hi>Trajan,</hi> will procure for Your Reign the Felicity of <hi>Auguſtus.</hi> And who can tell but Heaven, which takes particular care of the Intereſts of the Church, will be particularly mov'd at the Acknowledgements due from the Church to Your Majeſty, and make You reap the Benefit of them, in granting the Requeſts of their Prayers? Who can tell, but the Example of ſo many Eminent Proteſtants throwing themſelves into the Arms of Your Church, may prove inſtrumental to diſarm thoſe who diſturb the Peace of it? Who can tell, but our Chil<g ref="char:EOLhyphen"/>dren who croſs the Seas for their Salvation, may by their preſence here do the Office of Media<g ref="char:EOLhyphen"/>tors between two Brethren, animated one againſt the other with ſo much Paſſion, and for ſo little Cauſe? Who can tell, but the ſight of ſo lamentable an Object will melt them into ten<g ref="char:EOLhyphen"/>derneſs, and touch their Conſcience, to forbear tearing the Bowels of a Mother, whoſe Bleſſings ſo many Confeſſors come thronging to beg, as her Adopted Children.</p>
+            <p>But while we wait the Succeſs of thoſe Vows and Prayers which proceed from a holy Acknow<g ref="char:EOLhyphen"/>ledgment and Gratitude due to Your Majeſty, how ſhall we find Words capable to expreſs it? I am ſenſible, 'tis impoſſible to do it in ordinary Language, and am ſo tranſported with Admira<g ref="char:EOLhyphen"/>tion, I can hardly forbear flying the higheſt pitch of Eloquence, and with that ancient Orator call up the Dead to ſee this admirable Sight? I can ſcarce contain my ſelf from crying out, O ad<g ref="char:EOLhyphen"/>mirable <hi>Elizabeth!</hi> O Happy <hi>James!</hi> O Great and Gracious <hi>Charles</hi> the Firſt! Glorious Kings as thoſe in the <hi>Revelation,</hi> who have carried their Spiritual Riches and the Crown of their Vertues into the Holy City. O you Great and Divine Souls, who have ſo often heard the Cries and Groans of Proteſtant-Strangers in the Palace where I am ſpeaking, What would you ſay to ſee at this day your Pious Intentions ſo faithfully and ſo happily executed? What would you ſay to ſee all this Concourſe of the Faithful, in Mourning, arriving here every day, and kindly re<g ref="char:EOLhyphen"/>ceived? What would you ſay to ſee all the Voluntary Contributions made for them? that holy and compaſſionate Concern for us, and that charitable Commerce we meet with in theſe Fortu<g ref="char:EOLhyphen"/>nate Iſlands? What would you ſay to ſee <hi>Lazarus</hi> in <hi>Abraham</hi>'s Boſom, and a Repreſentation of Heaven upon Earth? What would ſay to ſee <hi>England</hi> look like Old <hi>Rome,</hi> which was called the Common Country of all the World; and according to the Example of that famous City, become the Refuge and Habitation of all the Reformed World, by the holy and profound Policy of Your Illuſtrious Succeſſor? But what was I thinking on? I ſpeak to the Dead, when I ought to make them ſpeak who are Living. The Raviſhment I am under, and the Confuſion of many Paſſions ſtirr'd all at once, hath put me beſides my Bounds, and made me tranſgreſs the ordinary Rules. You may, <hi>Sir,</hi> by theſe extraordinary Sallies judge how extraordinary the Cauſe is that pro<g ref="char:EOLhyphen"/>duces them, and how deep an Impreſſion Your great Goodneſs hath made in our Hearts: You may gather from thence what grateful Sentiments we have of Your Bounty; how full of Ar<g ref="char:EOLhyphen"/>dour and Zeal, and (if I may preſume to ſay ſo) of Love for Your Majeſty. But why may I not preſume to ſay ſo, ſince, in the Tranſport we are in, we may be allow'd to ſay any thing? Yes, <hi>Sir,</hi> we love You: We love You as a God on Earth, for ſuch You are: We love You as the <hi>Romans</hi> lov'd their <hi>Trajan</hi> or their <hi>Scipio,</hi> whom they call'd their Darlings: And we are all, with the higheſt and moſt lively Paſſion, yet with the moſt profound Reſpect, <hi>Sir,</hi>
+            </p>
+            <closer>
+               <signed>Your Ma<g ref="char:EOLhyphen"/>jeſties moſt Humble, moſt Obedient, and moſt Faithful Servants and Subjects, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Bentley</hi> and <hi>M. Magnes,</hi> in <hi>Covent-Garden,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
